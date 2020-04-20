@@ -1,0 +1,1 @@
+Some IDA scripting snippits I find myself using a lot.
